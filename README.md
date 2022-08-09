@@ -67,8 +67,7 @@ Se generan 3 columnas calculadas con **DAX**, una por cada tabla:
 
 También se crea una tabla llamada **_Medidas**, donde se crean 4 medidas:
 
-
-
+![Medidas DAX](https://user-images.githubusercontent.com/78714438/183734434-88561164-1c33-4742-aa5e-d8fac504ad0d.svg)
 
 
 ## Reportes
@@ -81,9 +80,21 @@ Está compuesto por 4 Tarjetas y 7 Visualizaciones :
 
 ##### Tarjetas
 
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Total Empleados.</li>
+<li>Edad Promedio.</li>
+<li>Sueldo Promedio.</li>
+<li>Evaluación Promedio.</li>
+
+##### Visualizaciones
+
+<li>**Gráfico de anillos**, detallando la proporción de empleados por Género. </li>
+<li>**Mapa**, detallando la cantidad de empleados por Estado.</li>
+<li>**Gráfico de barras**, Rango Etario.</li>
+<li>**Gráfico de barras**, Rango Salarial.</li>
+<li>**Gráfico de barras**, Rango de Evaluación.</li>
+<li>**Gráfico de columnas**, con detalle de la cantidad de empleados por Departamento.</li>
+<li>**Tabla**, con el detalle de todos los empleados.</li>
+
+![Reporte 1](https://user-images.githubusercontent.com/78714438/183735654-85d9cde3-4aeb-4261-96f6-2899507d788c.png)
 
 
