@@ -121,3 +121,26 @@ Está compuesto por 3 Tarjetas y 5 Visualizaciones :
 
 ![Reporte 2](https://user-images.githubusercontent.com/78714438/183737828-d75a5889-d0c5-4725-8ba0-9d975268c69d.png)
 
+
+## Reporte 2 - Análisis Desempeño
+
+Está compuesto por 4 Tarjetas y 5 Visualizaciones :
+
+##### Tarjetas
+
+<li>Total Empleados.</li>
+<li>Evaluación Máxima.</li>
+<li>Evaluación Mínima.</li>
+<li>Evaluación Promedio.</li>
+
+##### Visualizaciones
+
+<li><strong>Mapa</strong>, detallando Evaluaciones por Estado.</li>
+<li><strong>Gráfico de barras</strong>, evaluando el desempeño de promedio de los empleados por Jefe directo.</li>
+<li><strong>Gráfico de columnas</strong>, con detalle de promedio de Evaluación por Género.</li>
+<li><strong>Gráfico de columnas</strong>, con detalle de promedio de Evaluación por Departamento.</li>
+<li><strong>Tabla</strong>, con el detalle de todos los empleados.</li>
+
+![Reporte 3](https://user-images.githubusercontent.com/78714438/183738757-ee34bc38-8733-4c25-8367-0a0d5a90872d.png)
+
+
