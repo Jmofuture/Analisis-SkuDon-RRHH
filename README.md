@@ -48,6 +48,29 @@ Con pocas transformaciones en Power Query se cargan las tablas
 ![Tabla 3 2](https://user-images.githubusercontent.com/78714438/183730270-9c2d63ca-f755-4693-9f9b-0a6997458bff.png)
 
 
+## Cálculos con DAX 
+
+Se generan 3 columnas calculadas con **DAX**, una por cada tabla:
+
+**Rango Etario**
+
+![Columna Calculada Grupo Etario](https://user-images.githubusercontent.com/78714438/183733725-376d8bd9-5167-4a96-ba64-f22b62a82ebc.svg)
+
+**Rango Salarial**
+
+![Columna Calculada Grupo Sueldo](https://user-images.githubusercontent.com/78714438/183733796-045f2a19-579f-4ed7-98fe-f9f09fe447ec.svg)
+
+**Rango de Evaluaciones**
+
+![Columna Calculada Grupo Evaluación](https://user-images.githubusercontent.com/78714438/183733832-918ffe9d-bd26-4dc6-8196-4f514db2020c.svg)
+
+
+También se crea una tabla llamada **_Medidas**, donde se crean 4 medidas:
+
+
+
+
+
 ## Reportes
 
 ### Con estas 3 tablas se realizan 3 reportes
@@ -56,6 +79,11 @@ Con pocas transformaciones en Power Query se cargan las tablas
 
 Está compuesto por 4 Tarjetas y 7 Visualizaciones :
 
-###### Tarjetas
+##### Tarjetas
+
+<li></li>
+<li></li>
+<li></li>
+<li></li>
 
 
