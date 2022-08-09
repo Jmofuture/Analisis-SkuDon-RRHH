@@ -48,3 +48,14 @@ Con pocas transformaciones en Power Query se cargan las tablas
 ![Tabla 3 2](https://user-images.githubusercontent.com/78714438/183730270-9c2d63ca-f755-4693-9f9b-0a6997458bff.png)
 
 
+## Reportes
+
+### Con estas 3 tablas se realizan 3 reportes
+
+## Reporte 1 - Análisis Empleados
+
+Está compuesto por 4 Tarjetas y 7 Visualizaciones :
+
+###### Tarjetas
+
+
