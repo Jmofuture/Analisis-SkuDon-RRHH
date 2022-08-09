@@ -1,4 +1,5 @@
-# Análisis de RRHH Sku-Don 
+# Análisis de RRHH Sku-Don    ![Escudo](https://user-images.githubusercontent.com/78714438/183740238-74fc791a-df62-40e3-9450-c298ce16ef16.png)
+
 
 Se busca visualizar indicadores de Colaboradores, Sueldos y Desempeño con el uso de un Reporte de Recursos Humanos de la compañía (ficticia) SKU-DON. Este reporte requiere ser compartido a usuarios por medio de un enlace web.
 Se requiere analizar:
