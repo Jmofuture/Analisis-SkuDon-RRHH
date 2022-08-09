@@ -87,12 +87,12 @@ Está compuesto por 4 Tarjetas y 7 Visualizaciones :
 
 ##### Visualizaciones
 
-<li><strong>Gráfico de anillos<strong>, detallando la proporción de empleados por Género. </li>
-<li><strong>Mapa<strong>, detallando la cantidad de empleados por Estado.</li>
-<li><strong>Gráfico de barras<strong>, Rango Etario.</li>
-<li><strong>Gráfico de barras<strong>, Rango Salarial.</li>
-<li><strong>Gráfico de barras<strong>, Rango de Evaluación.</li>
-<li><strong>Gráfico de columnas<strong>, con detalle de la cantidad de empleados por Departamento.</li>
+<li><strong>Gráfico de anillos</strong>, detallando la proporción de empleados por Género.</li>
+<li><strong>Mapa</strong>, detallando la cantidad de empleados por Estado.</li>
+<li><strong>Gráfico de barras</strong>, Rango Etario.</li>
+<li><strong>Gráfico de barras</strong>, Rango Salarial.</li>
+<li><strong>Gráfico de barras</strong>, Rango de Evaluación.</li>
+<li><strong>Gráfico de columnas</strong>, con detalle de la cantidad de empleados por Departamento.</li>
 <li><strong>Tabla</strong>, con el detalle de todos los empleados.</li>
 
 ![Reporte 1](https://user-images.githubusercontent.com/78714438/183735654-85d9cde3-4aeb-4261-96f6-2899507d788c.png)
