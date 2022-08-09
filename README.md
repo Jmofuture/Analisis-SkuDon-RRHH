@@ -11,4 +11,7 @@ Se requiere analizar:
 
 Se dispone de un dataset **Datos+Empleados**, dispone de 3 tablas **Empleados**, **Evaluación** y **Sueldo** 
 
+## Reporte 1 - 
 
+
+![Columna Calculada Grupo Etario](https://user-images.githubusercontent.com/78714438/183724042-9dadb64a-1488-42ed-9876-96f9efc814d3.svg)
