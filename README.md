@@ -95,6 +95,29 @@ Está compuesto por 4 Tarjetas y 7 Visualizaciones :
 <li><strong>Gráfico de columnas</strong>, con detalle de la cantidad de empleados por Departamento.</li>
 <li><strong>Tabla</strong>, con el detalle de todos los empleados.</li>
 
+
 ![Reporte 1](https://user-images.githubusercontent.com/78714438/183735654-85d9cde3-4aeb-4261-96f6-2899507d788c.png)
 
+
+## Reporte 2 - Análisis Sueldos
+
+Está compuesto por 3 Tarjetas y 5 Visualizaciones :
+
+##### Tarjetas
+
+<li>Total Empleados.</li>
+<li>Sueldo Total.</li>
+<li>Sueldo Promedio.</li>
+
+
+##### Visualizaciones
+
+<li><strong>Gráfico de anillos</strong>, detallando la proporción de empleados por Sueldo y Género.</li>
+<li><strong>Mapa</strong>, detallando el Sueldo Total por Estado.</li>
+<li><strong>Gráfico de dispersión</strong>, evaluando la relación entre la edad de los emplados y el Sueldo.</li>
+<li><strong>Gráfico de columnas</strong>, con detalle del Sueldo Promedio por Departamento.</li>
+<li><strong>Tabla</strong>, con el detalle de todos los empleados.</li>
+
+
+![Reporte 2](https://user-images.githubusercontent.com/78714438/183737828-d75a5889-d0c5-4725-8ba0-9d975268c69d.png)
 
